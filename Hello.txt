@@ -1,0 +1,9 @@
+Hello ! 
+i'm Hazem , front end developer and you are now in Typescipt task area 
+ There are 11 folders spread over 11 brunches , each branch contain 2 TS files :
+ - First file : the question or the problem 
+ - second one : contain the solution 
+
+ PS : the branches names are numbers ( 1 to 11 ).
+
+ Enjoy !! 
